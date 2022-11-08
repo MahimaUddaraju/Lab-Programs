@@ -1,0 +1,23 @@
+.background1 { 
+    background: url(mainback.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    max-width: 100%;
+  }
+  .background2 { 
+    background: url(background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    max-width: 100%;
+  }
+
+  #main{
+    color:white; 
+    font-size:50px; 
+    font-family: 'Georgia', sans-serif;
+
+  }
